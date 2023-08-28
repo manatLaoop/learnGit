@@ -21,3 +21,9 @@ li {
 body{
     background-color: aqua;
 }
+
+div{
+    padding: 50px;
+    background-color: cadetblue;
+    box-shadow: 10px 10px 5px rgba(15, 15, 15, 0.133);
+}
