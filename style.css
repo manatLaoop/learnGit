@@ -22,8 +22,19 @@ body{
     background-color: aqua;
 }
 
+
 div{
     padding: 50px;
     background-color: cadetblue;
     box-shadow: 10px 10px 5px rgba(15, 15, 15, 0.133);
+}
+
+footer{
+    position: fixed;
+    width: 100vw;
+    height: 300px;
+    padding:10px ;
+    top: 95vh ;
+    background-color: cadetblue;
+
 }
